@@ -1,0 +1,213 @@
+.custom_nav{
+    background: black;
+    min-height: 100px;
+}
+
+.navbar-inverse {
+    background-color: black;
+    padding-top: 25px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+.navbar-brand{
+    padding-right: 40px;
+}
+#brandimage_2{
+    position:relative;
+    top: -20px;
+    
+}
+#brandimage_1{
+    position: absolute;
+    top: 30px;
+    left: 40px
+}
+
+#button_slider1{
+    background-color: black;
+    font-family: monospace;
+    min-width: 130px;
+    min-height: 40px;
+    border: none;
+    margin-left: 50px;
+    
+}
+
+.carousel-caption {
+    top: 100px;
+    padding-left: 180px;
+
+}
+
+.carousel-caption h1{
+    font-size: 5em;
+    font-weight: bolder;
+    font-family: monospace;
+    text-align: left;
+    letter-spacing: 2px;
+    
+    
+    
+}
+
+.caption2{
+    color: black;
+}
+
+.company{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.company h1{
+    font-weight: bold;
+    color: black;
+    font-family: monospace;
+    letter-spacing: 2px;
+}
+
+.company p{
+    font-weight: bold;
+    color: black;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.company img{
+     display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+.slider2{
+    padding-top: 100px
+    min-width: auto;
+    margin: auto;
+}
+
+.slick h4{
+     margin-left: auto;
+    margin-right: auto ;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    padding-top: 50px;
+    
+}
+
+.company2{
+    padding-top: 150px;
+    
+}
+
+.company2 .carousel-caption h1{
+     
+    
+   
+    font-weight: 500;
+    margin-left: -300px;
+}
+
+
+.company2 .carousel-caption p{
+    font-size: 15px;
+    letter-spacing: normal;
+    font-weight: normal;
+    text-align: left;
+    margin-left: -300px;
+    min-width: 100px;
+    min-height: 300px;
+    padding-right: 300px;
+    
+}
+
+.feature{
+padding-bottom: 100px;
+}
+.features{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.features h1{
+    font-weight: bold;
+    color: black;
+    font-family: monospace;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.features img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+
+}
+
+.feature p{
+    padding-top: 20px;
+    font-family: monospace;
+    color: black;
+    font-weight: bold;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    
+}
+
+.footer h3{
+    font-size: 1.3em;
+}
+
+.footer ul{
+     list-style-type: none;
+    display: inline-block;
+    
+}
+
+.footer ul li{
+    margin-left: -40px;
+}
+
+.footer a{
+    color: #9d9d9d;;
+    font-weight: normal;
+    text-decoration: none;
+    
+    
+}
+.footer a:hover{
+    color: white;
+}
+
+.footer p{
+  
+    font-size: 13px;
+}
+
+.input-group{
+    padding-bottom: 40px;
+
+}
+
+#social img{
+    width: 100%;
+   
+}
+
+
+
+
+
+#float-right{
+    float: right;
+    
+}
+.copyr8{
+    padding-top: 50px;
+}
